@@ -1,0 +1,8 @@
+prefix=/home/yuki/catkin_ws/dynamixel_tutorials/devel
+
+Name: my_dynamixel_tutorial
+Description: Description of my_dynamixel_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yuki/catkin_ws/dynamixel_tutorials/devel/lib 
+Requires: 

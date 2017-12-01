@@ -1,0 +1,2 @@
+my_dynamixel_tutorial
+-DCATKIN_DEVEL_PREFIX=/home/yuki/catkin_ws/dynamixel_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/yuki/catkin_ws/dynamixel_tutorials/install -G Unix Makefiles

@@ -1,0 +1,10 @@
+/home/yuki/catkin_ws/dynamixel_tutorials/install/_setup_util.py
+/home/yuki/catkin_ws/dynamixel_tutorials/install/env.sh
+/home/yuki/catkin_ws/dynamixel_tutorials/install/setup.bash
+/home/yuki/catkin_ws/dynamixel_tutorials/install/setup.sh
+/home/yuki/catkin_ws/dynamixel_tutorials/install/setup.zsh
+/home/yuki/catkin_ws/dynamixel_tutorials/install/.rosinstall
+/home/yuki/catkin_ws/dynamixel_tutorials/install/lib/pkgconfig/my_dynamixel_tutorial.pc
+/home/yuki/catkin_ws/dynamixel_tutorials/install/share/my_dynamixel_tutorial/cmake/my_dynamixel_tutorialConfig.cmake
+/home/yuki/catkin_ws/dynamixel_tutorials/install/share/my_dynamixel_tutorial/cmake/my_dynamixel_tutorialConfig-version.cmake
+/home/yuki/catkin_ws/dynamixel_tutorials/install/share/my_dynamixel_tutorial/package.xml

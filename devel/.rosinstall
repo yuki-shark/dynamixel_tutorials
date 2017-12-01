@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/yuki/catkin_ws/dynamixel_tutorials/devel/setup.sh
